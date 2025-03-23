@@ -37,12 +37,7 @@ To explore the notebooks:
    source venv/bin/activate  # On Windows: venv\Scripts\activate
    ```
 
-3. **Install required packages**:
-   ```sh
-   pip install -r requirements.txt
-   ```
-
-4. **Launch Jupyter Notebook**:
+3. **Launch Jupyter Notebook**:
    ```sh
    jupyter notebook
    ```
