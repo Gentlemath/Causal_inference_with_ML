@@ -52,6 +52,5 @@ For questions or collaborations, reach out to [Gentlemath](https://github.com/Ge
 
 ---
 
-*Note: Ensure that the `requirements.txt` file is present in the repository, listing all necessary Python packages.*
 
 
